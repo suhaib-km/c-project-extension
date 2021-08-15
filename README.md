@@ -11,4 +11,4 @@ The hospital would upload an image of the missing person with their name (if kno
 
 Any family looking to find their lost loved one would send a request to the database with an image, name and brief physical description. The image gets matched by an image matching algorithm, and by NLP the descriptions are matched. The highest percentage match across the two are returned to the family.
 
-This was made entirely in C.
+This was made entirely in C and was tracked in gitlab - so I reuploaded it to github.
